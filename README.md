@@ -1,2 +1,2 @@
 # w2elova
-A website about Wave to Earth
+a website about wave to earth
