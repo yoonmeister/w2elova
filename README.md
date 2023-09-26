@@ -1,15 +1,4 @@
-# w2elova
+# w2elova🎧
 a website about wave to earth
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-[wave to earth](youtube.com/wavetoearth) and ![Image](src)
+<img src="https://i.scdn.co/image/ab67616d0000b273c091fe6573f073f2e31b249f" width="500" height="500">
