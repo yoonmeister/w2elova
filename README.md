@@ -1,6 +1,6 @@
 # w2elova🎧
-a website about wave to earth
 
+### <u>wave to earth</u>
 #### a three-member south korean indie band
 <u>guitarist/songwriter . daniel kim / drummer . dongkyu shin / bassist . john cha</u>
 
